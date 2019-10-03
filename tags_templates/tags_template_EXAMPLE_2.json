@@ -1,0 +1,20 @@
+{
+  "@{Template Full Name Words}":                    "FairCorp Examples",
+  "@{TemplateFullNameNormalCase}":                  "FairCorpExamples",
+  "@{template_fullname_underscore}":                "faircorp_examples",
+
+  "@{TEMPLATE_SHORTNAME_UNDERSCORE_UPPERCASE}":     "EXAMPLES",
+  "@{Template Shortname Normal Case}":              "Examples",
+  "@{TemplateShortNameNormalCase}":                 "Examples",
+  "@{template shortname words}":                    "examples",
+  "@{template_shortname_underscore}":               "examples",
+  "@{template-shortname-hyphen}":                   "examples",
+
+  "@{Template Full Name Words Singular}":           "FairCorp Example",
+
+  "@{Template Normal Shortname Singular}":          "Example",
+  "@{TemplateShortNameNormalCaseSingular}":         "Example",
+  "@{template shortname singular words}":           "example",
+  "@{template_shortname_underscore_singular}":      "example",
+  "@{template-shortname-hyphen-singular}":          "example"
+}

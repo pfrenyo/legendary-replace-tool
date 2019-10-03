@@ -1,0 +1,20 @@
+{
+  "@{Template Full Name Words}":                    "Full Name Insert Data Here",
+  "@{TemplateFullNameNormalCase}":                  "FullNameInsertDataHere",
+  "@{template_fullname_underscore}":                "full_name_insert_data_here",
+
+  "@{TEMPLATE_SHORTNAME_UNDERSCORE_UPPERCASE}":     "INSERT_DATA_HERE",
+  "@{Template Shortname Normal Case}":              "Insert Data Here",
+  "@{TemplateShortNameNormalCase}":                 "InsertDataHere",
+  "@{template shortname words}":                    "insert data here",
+  "@{template_shortname_underscore}":               "insert_data_here",
+  "@{template-shortname-hyphen}":                   "insert-data-here",
+
+  "@{Template Full Name Words Singular}":           "Full Name Insert Datum Here",
+
+  "@{Template Normal Shortname Singular}":          "Insert Datum Here",
+  "@{TemplateShortNameNormalCaseSingular}":         "InsertDatumHere",
+  "@{template shortname singular words}":           "insert datum here",
+  "@{template_shortname_underscore_singular}":      "insert_datum_here",
+  "@{template-shortname-hyphen-singular}":          "insert-datum-here"
+}

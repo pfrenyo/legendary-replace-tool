@@ -1,0 +1,20 @@
+{
+  "@{Template Full Name Words}":                    "FairCorp My History",
+  "@{TemplateFullNameNormalCase}":                  "FairCorpMyHistory",
+  "@{template_fullname_underscore}":                "faircorp_my_history",
+
+  "@{TEMPLATE_SHORTNAME_UNDERSCORE_UPPERCASE}":     "MY_HISTORY",
+  "@{Template Shortname Normal Case}":              "My History",
+  "@{TemplateShortNameNormalCase}":                 "MyHistory",
+  "@{template shortname words}":                    "my history",
+  "@{template_shortname_underscore}":               "my_history",
+  "@{template-shortname-hyphen}":                   "my-history",
+
+  "@{Template Full Name Words Singular}":           "FairCorp My History Record",
+
+  "@{Template Normal Shortname Singular}":          "My History Record",
+  "@{TemplateShortNameNormalCaseSingular}":         "MyHistoryRecord",
+  "@{template shortname singular words}":           "my history record",
+  "@{template_shortname_underscore_singular}":      "my_history_record",
+  "@{template-shortname-hyphen-singular}":          "my-history-record"
+}
