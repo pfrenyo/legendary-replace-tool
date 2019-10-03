@@ -1,0 +1,1 @@
+Legendary Replace Tool is a simple yet useful tool to create projects from tagged templates (source_code_templates) that will then have their tags replaced by specific words or values, as according to tags_template.json.
